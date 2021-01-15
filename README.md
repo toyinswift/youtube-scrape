@@ -43,7 +43,10 @@ docker build -t <your username>/youtube-scrape .
 docker run -p 8080:8080 -d <your username>/youtube-scrape
 ```
 
-## Deploy to Heroku
+## Deploy to Heroku & CloudRun
+
+[![Run on Google Cloud](https://deploy.cloud.run/button.svg)](https://deploy.cloud.run)
+
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
